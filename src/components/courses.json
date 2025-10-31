@@ -1,0 +1,99 @@
+[
+  {
+    "courseName": "Full Stack Web Development",
+    "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",
+    "duration": "6 months",
+    "instructor": "Rajesh Kumar",
+    "mode": "Online",
+    "price": "₹18,000"
+  },
+  
+  {
+    "courseName": "DSA in Java",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20221114175057/10BestDataStructuresandAlgorithmsCourses.png",
+    "duration": "4 months",
+    "instructor": "Tanya Mehta",
+    "mode": "Online",
+    "price": "₹12,000"
+  },
+  {
+    "courseName": "Python for Beginners",
+    "image": "https://goedu.ac/wp-content/uploads/2021/11/Python-for-beginners.png",
+    "duration": "2 months",
+    "instructor": "Ankit Sharma",
+    "mode": "Offline",
+    "price": "₹8,000"
+  },
+  {
+    "courseName": "React.js Frontend Development",
+    "image": "https://cdn-strapi.sayonetech.com/media/Is_React_Js_JS_Frontend_Or_Backend_7b44f24e13.jpg",
+    "duration": "3 months",
+    "instructor": "Sakshi Verma",
+    "mode": "Online",
+    "price": "₹10,000"
+  },
+  {
+    "courseName": "Node.js and Express Backend",
+    "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*1bux_a_rU8tiC6A1sZdjIg.png",
+    "duration": "3 months",
+    "instructor": "Rohit Singh",
+    "mode": "Online",
+    "price": "₹9,000"
+  },
+  {
+    "courseName": "Java Programming Essentials",
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/java_trends.jpg",
+    "duration": "3 months",
+    "instructor": "Pooja Patel",
+    "mode": "Offline",
+    "price": "₹7,500"
+  },
+  {
+    "courseName": "Machine Learning in Python",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20250203102923965413/Python-for-Machine-Learning.webp",
+    "duration": "5 months",
+    "instructor": "Karan Bansal",
+    "mode": "Online",
+    "price": "₹15,000"
+  },
+  {
+    "courseName": "MySQL Relational Database",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20250426122005941558/what_is_mysql_.webp",
+    "duration": "2.5 months",
+    "instructor": "Sneha Nair",
+    "mode": "Offline",
+    "price": "₹6,500"
+  },
+  {
+    "courseName": "Android App Development",
+    "image": "https://www.opensourceforu.com/wp-content/uploads/2018/05/Android-app-development.jpg",
+    "duration": "4 months",
+    "instructor": "Rahul Gupta",
+    "mode": "Online",
+    "price": "₹11,000"
+  },
+  {
+    "courseName": "C++ Programming Mastery",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240722154207/Master-Cpp-Programming-cta-explore-now!!.webp",
+    "duration": "3 months",
+    "instructor": "Isha Sharma",
+    "mode": "Offline",
+    "price": "₹7,000"
+  },
+  {
+    "courseName": "UI/UX Design Fundamentals",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20231006153825/Fundamentals-of-Solid-UIUX-Design-copy.webp",
+    "duration": "2 months",
+    "instructor": "Aarav Joshi",
+    "mode": "Online",
+    "price": "₹9,500"
+  },
+  {
+    "courseName": "Cyber Security Basics",
+    "image": "https://digialert.com/media/k2/items/cache/7acce66d40ec90c2d61987b409cbf850_L.jpg",
+    "duration": "3 months",
+    "instructor": "Nikita Chauhan",
+    "mode": "Online",
+    "price": "₹10,500"
+  }
+]
